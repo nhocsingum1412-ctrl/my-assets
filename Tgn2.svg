@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="1920" height="1080" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="rgbGradient" x1="0%" x2="100%" y1="0%" y2="0%">
+   <stop offset="0%" stop-color="rgb(255,0,0)"/>
+   <stop offset="50%" stop-color="rgb(0,255,0)"/>
+   <stop offset="100%" stop-color="rgb(0,0,255)"/>
+  </linearGradient>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <text fill="url(#rgbGradient)" font-family="Arial, Helvetica, sans-serif" font-size="150" font-weight="bold" id="svg_7" text-anchor="middle" transform="matrix(0.472717 0 0 0.472717 -199.794 282.408)" x="2437.58" y="647.3">Tran Gia Noi</text>
+ </g>
+</svg>
