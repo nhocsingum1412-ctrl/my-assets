@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<svg width="400" height="150" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="rgbGradient" x1="0%" x2="100%" y1="0%" y2="0%">
+   <stop offset="0%" stop-color="#ff0000"/>
+   <!-- Red -->
+   <stop offset="33%" stop-color="#00ff00"/>
+   <!-- Green -->
+   <stop offset="66%" stop-color="#0000ff"/>
+   <!-- Blue -->
+   <stop offset="100%" stop-color="#ff0000"/>
+   <!-- Back to Red for continuity -->
+  </linearGradient>
+ </defs>
+ <!-- Background for contrast (optional, can be removed) -->
+ <!-- Text with RGB Gradient -->
+ <g class="layer">
+  <title>Layer 1</title>
+  <text fill="url(#rgbGradient)" font-family="Arial, sans-serif" font-size="48" font-weight="bold" id="svg_3" text-anchor="middle" transform="matrix(1.40164 0 0 1.40164 -5.42714 -46.8594)" x="147.99" y="93.2">Tran Gia Noi</text>
+ </g>
+</svg>
